@@ -44,3 +44,19 @@
 * **Exact quote (Trích dẫn nguyên văn của user):**
   > "Trên mạng thì nhiều tài liệu thật nhưng mỗi trường mỗi thầy dạy một kiểu. Mình tra ra cách làm rồi nhưng sợ không đúng barem của thầy trên lớp nên không dám viết vào bài nộp, đành để sáng mai lên trường hỏi bạn cho chắc."
 * **Nhận xét ngắn gọn:** Vấn đề không chỉ là hiểu kiến thức chung, mà là sự lo ngại về tính đúng chuẩn theo yêu cầu riêng của môn học ở trường, khiến việc tự tìm kiếm bên ngoài bị giảm tác dụng.
+
+---
+
+## 3. Practice reflection cá nhân (Đúc kết kinh nghiệm sau phỏng vấn)
+
+1. **Câu hỏi nào đã giúp user kể một tình huống cụ thể?**
+   * Câu hỏi mở đầu bám vào lần gần nhất: "Kể cho mình nghe về lần gần nhất bạn gặp một đoạn slide bài giảng hoặc bài tập khó hiểu trên lớp mà chưa giải quyết được ngay?" đã giúp bạn Hiếu nhớ ngay lại buổi tối thứ Ba vừa rồi ngồi làm bài tập môn phân tích dữ liệu ở nhà, kể chi tiết từng hành động từ lúc mở slide công thức đến lúc lên Google tra bài mẫu.
+
+2. **Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật?**
+   * Lúc bạn kể việc tra Google ra cách giải khác với thầy, mình suýt nữa định hỏi bạn có thích một công cụ giải thích tự động không (bị dính bẫy pitch giải pháp).
+   * Cần rèn luyện thêm sự điềm tĩnh để lắng nghe trọn vẹn, kiên trì đào sâu vào các con số thực tế (mất bao nhiêu phút, đã thử cách nào khác nữa không) thay vì vội vã chuyển câu hỏi.
+
+3. **Sau khi luyện, nhóm đã sửa conversation guide ở đâu và vì sao?**
+   * *Before:* Ban đầu câu hỏi mở chỉ tập trung vào việc tự học bài mới, khiến người tham gia nghĩ đến việc đọc lý thuyết suông.
+   * *After:* Nhóm đã bổ sung câu hỏi đào sâu về tình huống áp dụng lý thuyết vào làm bài tập về nhà và nỗi sợ bị lệch barem của thầy cô ở trường.
+   * *Lý do sửa:* Trải nghiệm phỏng vấn cho thấy người học bị kẹt nhiều nhất khi phải chuyển đổi từ công thức vắn tắt trên slide sang bài tập tính toán số liệu cụ thể.

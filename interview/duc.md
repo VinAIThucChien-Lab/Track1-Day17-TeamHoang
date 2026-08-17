@@ -42,3 +42,14 @@
   > "Lúc nhờ con ChatGPT giải thích, nó nôn ra một đống code với lý thuyết dài ngoằng. Mình đọc tới dòng thứ 5 là thấy buồn ngủ rồi gập máy luôn. Thà không biết gì còn hơn bị nhét một mớ hỗn độn vào đầu giữa đêm khuya."
 * **Điểm bất ngờ hoặc trái giả thuyết ban đầu:**
   * Nhóm ban đầu giả định người dùng sẽ kiên nhẫn dùng ChatGPT để hiểu bài. Tuy nhiên, thực tế user lại rất dễ bị "ngợp" (overwhelmed) bởi chính sự chi tiết của ChatGPT nếu nó không xác định đúng chỗ người dùng hổng kiến thức. Điều này củng cố mạnh mẽ cho việc giải pháp (Diagnostic Refresher) cần phải chẩn đoán đúng và chỉ đưa ra một giải thích thật "ngắn gọn" thay vì một bài giảng dài.
+
+---
+
+## 3. Practice Reflection (Đánh giá sau khi luyện tập)
+
+* **Câu hỏi nào đã giúp user kể một tình huống cụ thể?**
+  > "Bạn có thể kể lại chi tiết về lần gần nhất bạn đang cố gắng đọc hiểu slide bài giảng mà bị bế tắc không?"
+* **Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật?**
+  > Cần kiềm chế việc mớm lời cho người được phỏng vấn. Cần hỏi mở hơn (ví dụ: "Lúc đó bạn đã tìm kiếm giải pháp như thế nào?") thay vì gợi ý sẵn các phương án như Google hay ChatGPT.
+* **Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?**
+  > Nhóm đã bổ sung thêm các câu hỏi đào sâu (probe) về cảm giác "quá tải thông tin" (bị ngợp) khi dùng tài liệu ngoài. Lý do: Qua lượt luyện tập, nhóm nhận thấy user thường gập máy đi ngủ do thông tin dư thừa chứ không phải do không tìm thấy thông tin. Chi tiết này củng cố rất mạnh cho giả thuyết cần chẩn đoán đúng bệnh và giải thích ngắn.

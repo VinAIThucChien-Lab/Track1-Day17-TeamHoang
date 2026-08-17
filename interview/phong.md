@@ -7,7 +7,7 @@
 ## 1. Thông tin buổi phỏng vấn
 
 * **Người thực hiện phỏng vấn (Interviewer):** Kiều Hồng Phong
-* **Mã người tham gia (Interviewee):** 
+* **Mã người tham gia (Interviewee):** Nguyễn Minh Hiếu
 * **Đúng tiêu chí tuyển (Gặp khó khăn khi học bài trong 7 ngày gần đây):** [x] Có  /  [ ] Không
 * **Thời lượng phỏng vấn:** 5 phút
 

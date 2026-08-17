@@ -91,3 +91,32 @@ tra mạng bị lan man                      │          tế" (Glossary) ghim 
                                          │          bước đệm cho các slide khó           │
                                          └───────────────────────────────────────────────┘
 ```
+
+---
+
+## 3. Conversation guide (Bộ kịch bản phỏng vấn của nhóm)
+
+### 3.1. Tiêu chí tuyển người và lời mở đầu
+* **Tiêu chí tuyển:** Người đã tự học bài học online hoặc khóa học công nghệ và từng gặp phần kiến thức không hiểu trong vòng 7 ngày gần đây.
+* **Recruitment check (Câu sàng lọc):** Trong 7 ngày qua, bạn có tham gia buổi học online hoặc tự học slide, video nào vào buổi tối hoặc đêm không?
+* **Lời mở đầu:** Chào bạn, mình đang làm một nghiên cứu nhỏ về trải nghiệm tự học online để lắng nghe những khó khăn thực tế mà học viên thường gặp phải. Cuộc trò chuyện này hoàn toàn nhằm học hỏi từ trải nghiệm thật của bạn, không bán hàng hay xin đánh giá bất kỳ tính năng hoặc sản phẩm nào.
+
+### 3.2. Kịch bản phỏng vấn (Không làm lộ solution)
+* **Story opener (Neo vào quá khứ cụ thể):**
+  > Bạn có thể kể cho mình nghe về lần gần nhất (trong tuần qua) bạn gặp một đoạn slide hoặc khái niệm khó hiểu khi tự học không? Lúc đó bạn đang học môn gì và chuyện gì đã xảy ra?
+
+* **Big 3 questions (Gắn chặt với ba điều cần học):**
+  1. *[Q1 - Bối cảnh và điểm nghẽn]:* Khi nhận ra mình đọc slide đó mà không hiểu, cảm giác và phản ứng đầu tiên của bạn lúc đó là gì?
+  2. *[Q2 - Workaround và nỗ lực (Câu hỏi đáng sợ)]:* Lúc đó bạn đã làm cách nào để tự xử lý đoạn khó hiểu đó? Bạn đã tra cứu ở đâu và mất khoảng bao nhiêu thời gian?
+  3. *[Q3 - Hậu quả và chi phí]:* Sau khi thử cách đó, bạn có hiểu được bài để học tiếp không, hay chuyện đó ảnh hưởng thế nào đến tiến độ và tâm lý học của bạn tối hôm đó?
+
+* **Probe bank (Bộ câu hỏi đào sâu hành vi):**
+  * Lúc đó chuyện gì xảy ra tiếp theo?
+  * Vì sao bạn lại chọn cách search đó mà không hỏi người khác?
+  * Khi search trên mạng, phần nào làm bạn tốn thời gian và bực bội nhất?
+  * Nếu tối đó không giải quyết được thì sáng hôm sau bạn xử lý thế nào?
+
+### 3.3. Ba phản xạ xử lý lệch dữ liệu (The Mom Test)
+* **Khi user khen hoặc khen ý tưởng:** $\rightarrow$ *Deflect:* Cảm ơn bạn! Vậy ở lần học gần nhất tối hôm trước, bạn đã xoay xở với đoạn khó hiểu đó ra sao?
+* **Khi user nói chung chung hoặc hứa hẹn tương lai:** $\rightarrow$ *Anchor:* Lần cụ thể gần nhất chuyện đó xảy ra là ngày nào? Lúc đó bạn đang mở bài học gì?
+* **Khi user đòi hỏi tính năng (Feature request):** $\rightarrow$ *Dig:* Nếu có tính năng đó thì giúp bạn giải quyết được việc gì cụ thể? Còn hiện tại chưa có nó thì bạn đang khắc phục bằng cách nào?
